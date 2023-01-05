@@ -14,7 +14,7 @@ DABHOLKAR NUZHAT
 
 
 ## LINK
-[Oda store project ](https://odastore.netlify.app/)
+[Oda store project ](https://odastore1210.netlify.app/)
 
 ## TIME
 20 HOUR+
